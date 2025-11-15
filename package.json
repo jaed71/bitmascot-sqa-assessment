@@ -1,0 +1,16 @@
+{
+  "name": "bitmascot-sqa-assessment",
+  "version": "1.0.0",
+  "description": "Playwright assessment for Bit Mascot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "playwright": "^1.40.0"
+  }
+}
